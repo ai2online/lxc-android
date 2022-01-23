@@ -1,4 +1,4 @@
-gistfile1.txt
+
 # Get Pre-reqs
 apt-get install libattr1-dev git unzip make gcc automake pkg-config
 
