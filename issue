@@ -1,0 +1,4 @@
+
+arm64 Clang编译警告：unannotated fall-through between switch labels [-Werror,-Wimplicit-fallthrough]
+编译make用下面这句
+make CFLAGS='-Wno-implicit-fallthrough'
